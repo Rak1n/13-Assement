@@ -10,3 +10,4 @@ if __name__=="__main__":
     ui = MainWindow()
     ui.show()
     app.exec()
+
